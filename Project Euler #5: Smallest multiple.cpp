@@ -1,3 +1,6 @@
+/*
+https://www.hackerrank.com/contests/projecteuler/challenges/euler005/problem
+*/
 #include <bits/stdc++.h>
 using namespace std;
 
